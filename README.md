@@ -12,7 +12,10 @@ The software we are using leverages the YOLOv4 model to detect and quantify fall
 * Colab Pro Subscription: GPU access is essential for the tool's performance.
 * Video Format: Video files must be in mp4 format.
 * File Storage: Save the video files in a Google Drive folder under /fly_fall_test_videos.
-* Download the model weights from the following link: https://drive.google.com/file/d/1SuTQxeg9NIFcK5RXPZPldY5PwqdfQa8L/view?usp=sharing
+* Download the model weights from the following link: [Model Weights](https://drive.google.com/file/d/1SuTQxeg9NIFcK5RXPZPldY5PwqdfQa8L/view?usp=sharing) and add them in yolov4/training
+* Sample input video : [Sample Input video](https://drive.google.com/file/d/1cyBU1z1c88NWBG9kgipMs7-yMXGqeCyH/view?usp=sharing)
+* Sample output video : [Sample Output Video](https://drive.google.com/file/d/12e1Ozz_h-OD9lLccmAQR7qGALfbniKjm/view?usp=sharing)
+* Add the input video in yolov4/fly_fall_test_videos
 
 ### Steps to use the software 
 1. Clone the GitHub Repository: Clone the repository and save it in your Google Drive.
